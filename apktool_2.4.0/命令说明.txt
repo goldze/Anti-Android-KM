@@ -1,0 +1,6 @@
+apktool.bat d -f [apk输入路径] [文件夹输出路径]  //反编译apk
+
+apktool b [文件夹输入路径] -o [apk输出路径]   //重新打包apk
+
+jarsigner -verbose -keystore [签名文件路径] -storepass [签名文件密码] -signedjar [新apk输出路径] 
+-digestalg SHA1 -sigalg MD5withRSA [旧apk输入路径] [签名文件别名]  //重新签名apk
