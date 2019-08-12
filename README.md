@@ -199,6 +199,12 @@ cmd到apktool文件夹下面，执行
 
 如果你对逆向也感兴趣的话，并且和我一样是初学者，我觉得这个实战过程非常适合你。一是能让你感受到破解的整个过程；二是难度不大，不会打击到你的兴趣，同时还能得到一定的成就感。
 
+如果你也想来试一试，请准备好你的营养快线，apk安装包原文件我会放在群共享里，欢迎你的加入！
+
+QQ群：61455640
+
+<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=1e89d14a6b8fa7fba9e2790ed40f9175ec9e3f184a947d2cbb90b33441255721"><img border="0" src="https://user-gold-cdn.xitu.io/2019/8/10/16c7c02002f0bad6?w=90&h=22&f=png&s=1827" alt="Android逆向之旅" title="Android逆向之旅"></a>
+
 ## License
 
     Copyright 2019 goldze(曾宪泽)
