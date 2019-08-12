@@ -199,4 +199,18 @@ cmd到apktool文件夹下面，执行
 
 如果你对逆向也感兴趣的话，并且和我一样是初学者，我觉得这个实战过程非常适合你。一是能让你感受到破解的整个过程；二是难度不大，不会打击到你的兴趣，同时还能得到一定的成就感。
 
+## License
 
+    Copyright 2019 goldze(曾宪泽)
+ 
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+ 
+        http://www.apache.org/licenses/LICENSE-2.0
+ 
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
